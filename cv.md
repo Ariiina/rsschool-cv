@@ -1,11 +1,11 @@
 # Kislova Arina
 ----
 ## Contacts
-* **Location:**
+ **Location:**
  Kyrgyzstan, Bishkek
- * **Phone:**
+  **Phone:**
 +996700608303
-* **Email:**
+ **Email:**
 arinakis06@gmail.com
 * **GitHub:**
 ariiina
