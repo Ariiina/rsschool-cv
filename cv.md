@@ -1,6 +1,6 @@
 # Kislova Arina
 ----
-## Contacts
+* ## Contacts
  **Location:**
  Kyrgyzstan, Bishkek
   **Phone:**
@@ -9,18 +9,18 @@
 arinakis06@gmail.com
 * **GitHub:**
 ariiina
-## About Me
+* ## About Me
 I am 16 years old, I am still learning and developing, I like to learn new things and look for myself.
 My goal is to learn programming and reach a new level of my knowledge.
 I have good interpersonal skills, I am very eager to learn and develop new skills.
-## Work experience:
+* ## Work experience:
 Nothing yet…
-## Education and courses:
+* ## Education and courses:
 CSS, HTML, Git video courses on YouTube channel
-## Language:
+* ## Language:
 * Russian  - native speaker.
 * English - A1
-## Code Examples:
+* ## Code Examples:
  ```
 function multiply(a, b){
  return a * b
